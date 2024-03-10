@@ -5,3 +5,6 @@
 
 ## Measure screen
 ![Zrzut ekranu 2024-03-10 223236](https://github.com/MaciejStrzelczyk/FiberMeasureApplication/assets/94145559/8ed944d0-0b9b-41f5-a4d2-19934aed574f)
+
+## Wiring diagram
+![Zrzut ekranu 2024-03-10 223433](https://github.com/MaciejStrzelczyk/FiberMeasureApplication/assets/94145559/c98a9a06-0d4d-46b0-9303-3a0e6dae3c1c)
