@@ -14,7 +14,7 @@ Welcome to the FiberMeasureApplication repository! This project hosts a Python a
 ## Wiring diagram screen
 ![Zrzut ekranu 2024-03-10 223433](https://github.com/MaciejStrzelczyk/FiberMeasureApplication/assets/94145559/c98a9a06-0d4d-46b0-9303-3a0e6dae3c1c)
 
-## Application workflow
+## Application functinalities
 ![ApplicationPython](https://github.com/MaciejStrzelczyk/FiberMeasureApplication/assets/94145559/8053f6b2-a862-4052-b494-88cefb9130e8)
 
 
